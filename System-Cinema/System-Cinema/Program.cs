@@ -1,4 +1,5 @@
 ﻿using System;
+using System_Cinema.Class;
 
 namespace System_Cinema
 {
@@ -6,7 +7,8 @@ namespace System_Cinema
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+           
+            Menu.NameHader();
         }
     }
 }
