@@ -12,3 +12,17 @@ C:\Users\bryan\Desktop\System-Cinema\System-Cinema\System-Cinema\obj\Debug\netco
 C:\Users\bryan\Desktop\System-Cinema\System-Cinema\System-Cinema\obj\Debug\netcoreapp3.1\System-Cinema.dll
 C:\Users\bryan\Desktop\System-Cinema\System-Cinema\System-Cinema\obj\Debug\netcoreapp3.1\System-Cinema.pdb
 C:\Users\bryan\Desktop\System-Cinema\System-Cinema\System-Cinema\obj\Debug\netcoreapp3.1\System-Cinema.genruntimeconfig.cache
+C:\Users\Sala4_17\Desktop\PIA\System-Cinema\System-Cinema\bin\Debug\netcoreapp3.1\System-Cinema.exe
+C:\Users\Sala4_17\Desktop\PIA\System-Cinema\System-Cinema\bin\Debug\netcoreapp3.1\System-Cinema.deps.json
+C:\Users\Sala4_17\Desktop\PIA\System-Cinema\System-Cinema\bin\Debug\netcoreapp3.1\System-Cinema.runtimeconfig.json
+C:\Users\Sala4_17\Desktop\PIA\System-Cinema\System-Cinema\bin\Debug\netcoreapp3.1\System-Cinema.runtimeconfig.dev.json
+C:\Users\Sala4_17\Desktop\PIA\System-Cinema\System-Cinema\bin\Debug\netcoreapp3.1\System-Cinema.dll
+C:\Users\Sala4_17\Desktop\PIA\System-Cinema\System-Cinema\bin\Debug\netcoreapp3.1\System-Cinema.pdb
+C:\Users\Sala4_17\Desktop\PIA\System-Cinema\System-Cinema\obj\Debug\netcoreapp3.1\System-Cinema.csproj.AssemblyReference.cache
+C:\Users\Sala4_17\Desktop\PIA\System-Cinema\System-Cinema\obj\Debug\netcoreapp3.1\System-Cinema.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sala4_17\Desktop\PIA\System-Cinema\System-Cinema\obj\Debug\netcoreapp3.1\System-Cinema.AssemblyInfoInputs.cache
+C:\Users\Sala4_17\Desktop\PIA\System-Cinema\System-Cinema\obj\Debug\netcoreapp3.1\System-Cinema.AssemblyInfo.cs
+C:\Users\Sala4_17\Desktop\PIA\System-Cinema\System-Cinema\obj\Debug\netcoreapp3.1\System-Cinema.csproj.CoreCompileInputs.cache
+C:\Users\Sala4_17\Desktop\PIA\System-Cinema\System-Cinema\obj\Debug\netcoreapp3.1\System-Cinema.dll
+C:\Users\Sala4_17\Desktop\PIA\System-Cinema\System-Cinema\obj\Debug\netcoreapp3.1\System-Cinema.pdb
+C:\Users\Sala4_17\Desktop\PIA\System-Cinema\System-Cinema\obj\Debug\netcoreapp3.1\System-Cinema.genruntimeconfig.cache

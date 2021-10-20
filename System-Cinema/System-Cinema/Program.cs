@@ -8,6 +8,9 @@ namespace System_Cinema
     {
         static void Main(string[] args)
         {
+            //Objeto del cabecera de titulo del sisetema
+            Menu.NameHader();
+
             IUsuario cajero = new Cajero("Prueba123", "12345");
             IUsuario encargado = new EncargadoPeliculas("Prueba456", "67890");
 
@@ -43,16 +46,17 @@ namespace System_Cinema
             string nom, pass; //Variables de inicio de sesión
             do
             {
-                Console.Write("\nIngrese su nombre de usuario: ");
+                Console.WriteLine("\t────────────────────────────────────────────────────────────────────────────────────────────────────");
+                Console.Write("\n\t■ Ingrese su nombre de usuario: ");
                 nom = Console.ReadLine();
-                Console.Write("\nIngrese su contraseña: ");
+                Console.Write("\n\t■ Ingrese su contraseña: ");
                 pass = Console.ReadLine();
                 //Realizamos una búsqueda dentro de las lsitas del encargado o los cajeros, con que me de un verdadero significa que los datos de login son correctos y búsqueda va a tener "true"
                 busqueda = EncargadoPeliculas.BuscarEncargado(nom, pass) || Cajero.BuscarCajero(nom, pass);
 
                 if (!busqueda)
                 {
-                    Console.WriteLine("Error: contraseña o usuarios inválidos, intente de nuevo");
+                    Console.WriteLine("\n\t× Error: contraseña o usuarios inválidos, intente de nuevo");
                 }
             } while (!busqueda);
             /*Si sale del do-while, significa que el usuario ingresado si esta dentro de nuestra lista de registros, por lo que solo falta preguntar si es un encargado o un
