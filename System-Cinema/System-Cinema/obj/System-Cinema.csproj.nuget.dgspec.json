@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lalor\\source\\repos\\System-Cinema\\System-Cinema\\System-Cinema\\System-Cinema.csproj": {}
+    "C:\\Users\\Sala 4-8\\Source\\Repos\\bat-e404\\System-Cinema\\System-Cinema\\System-Cinema\\System-Cinema.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lalor\\source\\repos\\System-Cinema\\System-Cinema\\System-Cinema\\System-Cinema.csproj": {
+    "C:\\Users\\Sala 4-8\\Source\\Repos\\bat-e404\\System-Cinema\\System-Cinema\\System-Cinema\\System-Cinema.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lalor\\source\\repos\\System-Cinema\\System-Cinema\\System-Cinema\\System-Cinema.csproj",
+        "projectUniqueName": "C:\\Users\\Sala 4-8\\Source\\Repos\\bat-e404\\System-Cinema\\System-Cinema\\System-Cinema\\System-Cinema.csproj",
         "projectName": "System-Cinema",
-        "projectPath": "C:\\Users\\lalor\\source\\repos\\System-Cinema\\System-Cinema\\System-Cinema\\System-Cinema.csproj",
-        "packagesPath": "C:\\Users\\lalor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lalor\\source\\repos\\System-Cinema\\System-Cinema\\System-Cinema\\obj\\",
+        "projectPath": "C:\\Users\\Sala 4-8\\Source\\Repos\\bat-e404\\System-Cinema\\System-Cinema\\System-Cinema\\System-Cinema.csproj",
+        "packagesPath": "C:\\Users\\Sala 4-8\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Sala 4-8\\Source\\Repos\\bat-e404\\System-Cinema\\System-Cinema\\System-Cinema\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\lalor\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Sala 4-8\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -58,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
