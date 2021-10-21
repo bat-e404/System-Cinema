@@ -7,6 +7,5 @@ namespace System_Cinema.Interface
     public interface ISalas
     {
         int precioSala { get; set; }
-        int asientosDisp { get; set; }
     }
 }

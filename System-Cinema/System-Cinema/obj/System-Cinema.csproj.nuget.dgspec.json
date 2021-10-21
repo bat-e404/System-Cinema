@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sala4_17\\Desktop\\PIA\\System-Cinema\\System-Cinema\\System-Cinema.csproj": {}
+    "C:\\Users\\lalor\\Source\\Repos\\bat-e404\\System-Cinema\\System-Cinema\\System-Cinema\\System-Cinema.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sala4_17\\Desktop\\PIA\\System-Cinema\\System-Cinema\\System-Cinema.csproj": {
+    "C:\\Users\\lalor\\Source\\Repos\\bat-e404\\System-Cinema\\System-Cinema\\System-Cinema\\System-Cinema.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sala4_17\\Desktop\\PIA\\System-Cinema\\System-Cinema\\System-Cinema.csproj",
+        "projectUniqueName": "C:\\Users\\lalor\\Source\\Repos\\bat-e404\\System-Cinema\\System-Cinema\\System-Cinema\\System-Cinema.csproj",
         "projectName": "System-Cinema",
-        "projectPath": "C:\\Users\\Sala4_17\\Desktop\\PIA\\System-Cinema\\System-Cinema\\System-Cinema.csproj",
-        "packagesPath": "C:\\Users\\Sala4_17\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sala4_17\\Desktop\\PIA\\System-Cinema\\System-Cinema\\obj\\",
+        "projectPath": "C:\\Users\\lalor\\Source\\Repos\\bat-e404\\System-Cinema\\System-Cinema\\System-Cinema\\System-Cinema.csproj",
+        "packagesPath": "C:\\Users\\lalor\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lalor\\Source\\Repos\\bat-e404\\System-Cinema\\System-Cinema\\System-Cinema\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Sala4_17\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\lalor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }

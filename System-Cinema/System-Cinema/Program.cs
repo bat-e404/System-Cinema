@@ -8,6 +8,16 @@ namespace System_Cinema
     {
         static void Main(string[] args)
         {
+            //Instansiación de las 7 salas de cine
+            ISalas salaTrad1 = new SalaTradicional();
+            ISalas salaTrad2 = new SalaTradicional();
+            ISalas salaTrad3 = new SalaTradicional();
+            ISalas salaTrad4 = new SalaTradicional();
+            ISalas salaTrad5 = new SalaTradicional();
+            ISalas salaVIP1 = new SalaVIP();
+            ISalas salaVIP2 = new SalaVIP();
+
+
             //Objeto del cabecera de titulo del sisetema
             Menu.NameHader();
 
